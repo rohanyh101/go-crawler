@@ -1,4 +1,4 @@
-# GeeksforGeeks Crawler in Go
+# Website Crawler in Go
 
 A high-performance website crawler built in Go using [GoQuery](https://github.com/PuerkitoBio/goquery) and goroutines for concurrent processing. This crawler effectively navigates through an entire domain, collecting URLs while employing various user agents to avoid getting blocked by the domain server.
 
